@@ -1,7 +1,7 @@
 var images = ["https://content.presspage.com/uploads/1441/commercial-feature.png?10000",
-"./img/profilepic.jpg",
-"./img/profilepic.jpg",
-"./img/profilepic.jpg"];
+"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2330.png",
+"https://m.media-amazon.com/images/M/MV5BOGRjM2QxN2YtYWZiYy00MjFmLWJhNjUtYjg3NWQ2MWE2MGY1XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+"https://i.ytimg.com/vi/QrR_gm6RqCo/maxresdefault.jpg"];
 
 
 let names = ["Jake", "Tom", "Asher", "Mac"]
